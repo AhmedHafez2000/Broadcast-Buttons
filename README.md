@@ -1,6 +1,6 @@
 # Broadcast-Buttons
 
-Broadcast-Buttons is a multifunction buttons with a ARGB(Adressable RGB) buttons.
+Broadcast-Buttons is a multifunction buttons with an ARGB(Adressable RGB) buttons.
 
 The main IC **atmega328p-AUR** in combination with **WS2811** to control the RGB LEDs of each switch, this IC provide controlling all LEDs with one pin.
 
